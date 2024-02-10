@@ -1,6 +1,6 @@
-<h1>Data Structures and Algorithms Practical Labs</h1>
+<h1>Design and Analysis of Algorithms Practical Labs</h1>
 
-Hey Friend! 👋 Welcome to my Data Structures and Algorithms (DAA) Practical Labs repository. Here, you'll find the programs and solutions I've worked on during my DAA practical sessions. Feel free to explore, learn, and contribute!
+Hey Friend! 👋 Welcome to my Design and Analysis of Algorithms (DAA) Practical Labs. Here, you'll find the programs and solutions I've worked on during my DAA practical sessions. Feel free to explore, learn, and contribute!
 
 Introduction
 This repository is a compilation of DAA practical programs I've encountered during my sophomore year in Computer Science Engineering. The goal is to share knowledge, facilitate learning, and create a collaborative environment for fellow CS enthusiasts.
